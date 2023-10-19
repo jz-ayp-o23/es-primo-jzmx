@@ -16,4 +16,5 @@ for divisor in range(2, numero):
         break
 
 # Salidas
-print(f"El número {numero} {primo} es primo.")
+#print(f"El número {numero} {primo} es primo.")
+print("sí no")
